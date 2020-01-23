@@ -10,4 +10,4 @@ end
 
 def assign_rooms(list)
   list.each do |i|
-    puts "Hello, "
+    puts "Hello,#{list[i]}! "
